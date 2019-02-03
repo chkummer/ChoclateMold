@@ -13,5 +13,13 @@ Okay that sounds like a plan. Let's do it.
 * [Cutting bit](http://shop.wiesermodell.ch/pi/Werkstatt/CNC-Maschinen/20mm-flachfraeser-mit-3175-mm-schaft-2-schneiden.html)
 * [PVC 477x328x5mm](http://shop.wiesermodell.ch/pi/Werkstoffe/Kunststoffe/Kunststoff-Platten/PVC/aeronaut-pvc-schaumplatte-50mm-leicht.html)
 * [Acrylic 250x500x3mm](https://www.bauundhobby.ch/bauen-renovieren/glas-kunstglas/kunstglas/tecolux-acrylglas-3-mm-25x50-cm-transparent/p/3227666)
+* [Acrylic Glue](https://www.bauundhobby.ch/bauen-renovieren/kleben-dichten/klebstoffe-reparatur-fluessigkeiten/forbo-acrylglas-kleber-transparent-42g/p/3432619)
 * [Smooth On Equinox Series Silicone](https://www.smooth-on.com/product-line/equinox/) or [German Distributor KauPo](https://www.kaupo.de/produkte/silikonkautschuk-additionsvernetzend/equinox-solaris-serie/)
+* [Laser cutter AKJ 6090 'Big Blue' at FabLab Zurich](https://wiki.zurich.fablab.ch/AKJ_6090)
+* [RdWorks Laser cutter software](https://rdworkslab.com/)
+* [Laser cutter TT900 'Red Dot' at FabLab Zurich](https://wiki.zurich.fablab.ch/TT900)
+* [LightBurn Laser cutter software](https://lightburnsoftware.com/)
+* Water Jet Pump [Brand](https://shop.brand.de/de/wasserstrahlpumpen-pp-p705.html) or [Faust Online Shop](http://shop.faust.ch/shop/Vakuumtechnik_Trocknung_Trockenlagerung/Wasserstrahlpumpen/Wasserstrahlpumpen/Wasserstrahlpumpe_PP$B$einfo772_lang_DE.htm)
+* Vacuum Pump Hose [Semadeni Online Shop](https://eshop.semadeni.com/vakuum-schlauch-naturgummi-8x18mm.html)
+* Desiccator [Semadeni Online Shop](https://eshop.semadeni.com/exsikkator-o-250-mm.html)
 
