@@ -30,4 +30,4 @@ Created first Chocolate Diskettes at [La Flor](http://laflor.ch):
 ![second silicone mold](ChoclateMold_0012.jpeg)
 
 Second Version of the Diskette Box::
-![Diskette Box v2](ChoclateMold_0012.jpeg)
+![Diskette Box v2](ChoclateMold_0013.jpeg)
