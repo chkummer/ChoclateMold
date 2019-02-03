@@ -28,3 +28,6 @@ Second Silicone Mold using [Smooth On SMOOTH-SIL 940](https://www.smooth-on.com/
 
 Created first Chocolate Diskettes at [La Flor](http://laflor.ch):
 ![second silicone mold](ChoclateMold_0012.jpeg)
+
+Second Version of the Diskette Box::
+![Diskette Box v2](ChoclateMold_0012.jpeg)
