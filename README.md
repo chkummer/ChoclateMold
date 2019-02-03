@@ -22,4 +22,4 @@ Okay that sounds like a plan. Let's do it.
 * Water Jet Pump [Brand](https://shop.brand.de/de/wasserstrahlpumpen-pp-p705.html) or [Faust Online Shop](http://shop.faust.ch/shop/Vakuumtechnik_Trocknung_Trockenlagerung/Wasserstrahlpumpen/Wasserstrahlpumpen/Wasserstrahlpumpe_PP$B$einfo772_lang_DE.htm)
 * Vacuum Pump Hose [Semadeni Online Shop](https://eshop.semadeni.com/vakuum-schlauch-naturgummi-8x18mm.html)
 * Desiccator [Semadeni Online Shop](https://eshop.semadeni.com/exsikkator-o-250-mm.html)
-
+* [Smooth On SMOOTH-SIL 940](https://www.smooth-on.com/products/smooth-sil-940/) ([same product at the German Distributor KauPo](https://www.kaupo.de/produkte/silikonkautschuk-additionsvernetzend/smooth-sil-940/)
