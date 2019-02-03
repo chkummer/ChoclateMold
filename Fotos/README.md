@@ -22,7 +22,7 @@ Desiccator [Semadeni Online Shop](https://eshop.semadeni.com/exsikkator-o-250-mm
 Preparing new mold
 ![second silicone mold](ChoclateMold_0009.jpeg)
 
-Second Silicone Mold using [Smooth On SMOOTH-SIL 940](https://www.smooth-on.com/products/smooth-sil-940/) ([same product at the German Distributor KauPo](https://www.kaupo.de/produkte/silikonkautschuk-additionsvernetzend/smooth-sil-940/)
+Second Silicone Mold using [Smooth On SMOOTH-SIL 940](https://www.smooth-on.com/products/smooth-sil-940/) ([same product at the German Distributor KauPo](https://www.kaupo.de/produkte/silikonkautschuk-additionsvernetzend/smooth-sil-940/))
 ![second silicone mold](ChoclateMold_0010.jpeg)
 ![second silicone mold](ChoclateMold_0011.jpeg)
 
