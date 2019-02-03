@@ -13,3 +13,5 @@ Okay that sounds like a plan. Let's do it.
 * [Cutting bit](http://shop.wiesermodell.ch/pi/Werkstatt/CNC-Maschinen/20mm-flachfraeser-mit-3175-mm-schaft-2-schneiden.html)
 * [PVC 477x328x5mm](http://shop.wiesermodell.ch/pi/Werkstoffe/Kunststoffe/Kunststoff-Platten/PVC/aeronaut-pvc-schaumplatte-50mm-leicht.html)
 * [Acrylic 250x500x3mm](https://www.bauundhobby.ch/bauen-renovieren/glas-kunstglas/kunstglas/tecolux-acrylglas-3-mm-25x50-cm-transparent/p/3227666)
+* [Smooth On Equinox Series Silicone](https://www.smooth-on.com/product-line/equinox/) or [German Distributor KauPo](https://www.kaupo.de/produkte/silikonkautschuk-additionsvernetzend/equinox-solaris-serie/)
+

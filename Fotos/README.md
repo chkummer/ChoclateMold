@@ -6,3 +6,7 @@ First exeriments using a [CNC Milling-Machine](http://aliexpress.com/item/CNC-24
 First tries with the Diskette Box 
 ![wrong and right scale](ChoclateMold_0003.jpeg)
 ![Frist Version of Diskette Box](ChoclateMold_0004.jpeg)
+
+Fist Silicone Mold using [Smooth On Equinox Series Silicone](https://www.smooth-on.com/product-line/equinox/) ([same product at the German Distributor KauPo](https://www.kaupo.de/produkte/silikonkautschuk-additionsvernetzend/equinox-solaris-serie/)). I am not so happy with the result (air bubbles).
+![first silicone mold](ChoclateMold_0005.jpeg)
+
