@@ -7,7 +7,9 @@ Okay that sounds like a plan. Let's do it.
 * [TouchDraw](https://www.elevenworks.com/)
 * Autodesk Fusion360 [Product Page](http://autodesk.com/products/fusion-360/overview) more information about [Startup and Hobbyist License](https://www.autodesk.com/campaigns/fusion-360-for-hobbyists)
 * [GBRL Post Processor for Autodesk Fusion360](https://github.com/Strooom/GRBL-Post-Processor)
-* [The CNC Milling-Machine](http://aliexpress.com/item/CNC-2418-GRBL-control-Diy-CNC-machine-working-area-24x18x4-5cm-3-Axis-Pcb-Pvc-Milling/32704119622.html)
-* [Engraving bits](http://aliexpress.com/item/New-10pcs-New-Mini-PCB-wood-drill-Bits-Tungsten-Steel-Carbide-PCB-CNC-drill-Bit-Milling/32702792947.html)
+* [Universal Gcode Sender](http://winder.github.io/ugs_website/)
+* [CNC Milling-Machine](http://aliexpress.com/item/CNC-2418-GRBL-control-Diy-CNC-machine-working-area-24x18x4-5cm-3-Axis-Pcb-Pvc-Milling/32704119622.html)
+* [Engraving bit](http://aliexpress.com/item/New-10pcs-New-Mini-PCB-wood-drill-Bits-Tungsten-Steel-Carbide-PCB-CNC-drill-Bit-Milling/32702792947.html)
+* [Cutting bit](http://shop.wiesermodell.ch/pi/Werkstatt/CNC-Maschinen/20mm-flachfraeser-mit-3175-mm-schaft-2-schneiden.html)
 * [PVC 477x328x5mm](http://shop.wiesermodell.ch/pi/Werkstoffe/Kunststoffe/Kunststoff-Platten/PVC/aeronaut-pvc-schaumplatte-50mm-leicht.html)
-
+* [Acrylic 250x500x3mm](https://www.bauundhobby.ch/bauen-renovieren/glas-kunstglas/kunstglas/tecolux-acrylglas-3-mm-25x50-cm-transparent/p/3227666)
