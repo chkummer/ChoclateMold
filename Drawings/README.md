@@ -4,8 +4,6 @@ This file was then imported into Fusion360 (Startup License) to create the CAM j
 The 'DisketteBox.svg' was created using TouchDraw on iOS/iPad. 
 
 ## Links
-* [Affinity Designer](https://affinity.serif.com/en-gb/designer/)
-* [TouchDraw](https://www.elevenworks.com/)
 * Autodesk Fusion360 [Product Page](http://autodesk.com/products/fusion-360/overview) more information about [Startup and Hobbyist License](https://www.autodesk.com/campaigns/fusion-360-for-hobbyists)
 * [GBRL Post Processor for Autodesk Fusion360](https://github.com/Strooom/GRBL-Post-Processor)
-
+* [LightBurn Laser cutter software](https://lightburnsoftware.com/) 
