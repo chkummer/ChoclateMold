@@ -29,5 +29,11 @@ Second Silicone Mold using [Smooth On SMOOTH-SIL 940](https://www.smooth-on.com/
 Created first Chocolate Diskettes at [La Flor](http://laflor.ch):
 ![second silicone mold](ChoclateMold_0012.jpeg)
 
-Second Version of the Diskette Box::
+Second Version of the Diskette Box:
 ![Diskette Box v2](ChoclateMold_0013.jpeg)
+
+Make the Chocolate at Home using Städter Chocolate melter (https://www.staedter.de/en/chocolate-melter.html) and couverture (example dark https://www.minischoggi.ch/online-shop/pralinen-und-schokolade/couverture/lindt-couverturen/lindt-couverture-dunkel-25-kg.html or milk https://www.minischoggi.ch/online-shop/pralinen-und-schokolade/couverture/lindt-couverturen/lindt-couverture-milch-25-kg.html):
+![Diskette Box v2](ChoclateMold_0014.jpeg)
+
+Transport and Storage for Utz Rako Boxes {example https://www.utzgroup.ch/rako-case-400-300-81-mm-114491/):
+![Diskette Box v2](ChoclateMold_0015.jpeg)
