@@ -10,9 +10,9 @@ Okay that sounds like a plan. Let's do it.
 * [Engraving bit](http://aliexpress.com/item/New-10pcs-New-Mini-PCB-wood-drill-Bits-Tungsten-Steel-Carbide-PCB-CNC-drill-Bit-Milling/32702792947.html)
 * [Cutting bit](http://shop.wiesermodell.ch/pi/Werkstatt/CNC-Maschinen/20mm-flachfraeser-mit-3175-mm-schaft-2-schneiden.html)
 * [PVC 477x328x5mm](http://shop.wiesermodell.ch/pi/Werkstoffe/Kunststoffe/Kunststoff-Platten/PVC/aeronaut-pvc-schaumplatte-50mm-leicht.html) for CNC Milling Floppy Mold
-* [Acrylic 250x500x3mm](https://www.bauundhobby.ch/bauen-renovieren/glas-kunstglas/kunstglas/tecolux-acrylglas-3-mm-25x50-cm-transparent/p/3227666) for Diskette Box
-* [Acrylic 250x500x5mm](https://www.bauundhobby.ch/bauen-renovieren/glas-kunstglas/kunstglas/tecolux-acrylglas-5-mm-25x50-cm-transparent/p/3227672) for Lasercutting Floppy Mold
-* [Acrylic Glue](https://www.bauundhobby.ch/bauen-renovieren/kleben-dichten/klebstoffe-reparatur-fluessigkeiten/forbo-acrylglas-kleber-transparent-42g/p/3432619)
+* [Acrylic 250x500x3mm](https://www.jumbo.ch/de/bauen-renovieren/glas-kunstglas/kunstglas/tecolux-acrylglas--25--50--03-cm/p/3227666) for Diskette Box
+* [Acrylic 250x500x5mm](https://www.jumbo.ch/de/bauen-renovieren/glas-kunstglas/kunstglas/tecolux-acrylglas--25--50-cm--5-mm/p/3227672) for Lasercutting Floppy Mold
+* [Acrylic Glue](https://www.jumbo.ch/de/bauen-renovieren/kleben-dichten/klebstoffe--reparatur-fluessigkeiten/geistlich-acrylglas-kleber--42-g/p/3432619)
 * [Smooth On Equinox Series Silicone (Food Safe)](https://www.smooth-on.com/product-line/equinox/) or [German Distributor KauPo](https://www.kaupo.de/produkte/silikonkautschuk-additionsvernetzend/equinox-solaris-serie/)
 * [Laser cutter TT900 'Red Dot' at FabLab Zurich](https://wiki.zurich.fablab.ch/TT900)
 * [LightBurn Laser cutter software](https://lightburnsoftware.com/)
